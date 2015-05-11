@@ -1,6 +1,6 @@
 ---
 layout: default
-title: This is us
+title: Kaha Mission 
 permalink: /
 ---
 
