@@ -5,4 +5,9 @@ permalink: /about/
 ---
 
 # The Kaha team
-The Kaha team is a group of volunteers from all over the world.
+The Kaha team is a group of volunteers scattered all across the globe, with the goal of helping the Government of Nepal and other local organizations in their relief efforts. 
+
+### Some of us that have been actively involved in the effort are:
+- [Dawa Lama Sherpa](https://www.linkedin.com/in/dawalama)
+
+
